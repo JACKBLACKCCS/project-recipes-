@@ -1,0 +1,2 @@
+Se Pudo refrescar las actividades de hmtl,  donde se pudo observar los enlaces desde otro dispositivo movil de la pagina realizadas, y el manejo del git hub 
+[Version en Vivo](https://jackblackccs.github.io/project-recipes-/index.html)
